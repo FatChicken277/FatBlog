@@ -8,9 +8,9 @@
 
 <summary>How to download the books (Free)</summary>
 
-Tutorial: [https://www.youtube.com/watch?v=e4yeggrTfDo](https://www.youtube.com/watch?v=e4yeggrTfDo)
+**Tutorial:** [https://www.youtube.com/watch?v=e4yeggrTfDo](https://www.youtube.com/watch?v=e4yeggrTfDo)
 
-Website: [https://libgen.is/](https://libgen.is/) (used in the video)
+**Website:** [https://libgen.is/](https://libgen.is/) (used in the video)
 
 </details>
 
