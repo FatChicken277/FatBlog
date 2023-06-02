@@ -1,35 +1,25 @@
 ---
-description: La mente maestra detrás de FatChicken277 :O
+description: Bienvenido al blog personal de FatChicken ♥
 ---
 
-# Sobre mí
+# Bienvenido
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+### 🍿 **Frase de la semana**
 
-### Hola, me llamo Alejo 👋
+> _"El futuro pertenece a aquellos que creen en la belleza de sus sueños". - Eleanor Roosevelt_
 
-Soy un desarrollador de software full-stack con experiencia trabajando con Golang, Vuejs, Python, C, Bash scripting y Git, también me gustaría mencionar mi experiencia trabajando con trabajo en equipo y metodologías ágiles como scrum.
+### 🍿 Introducción
 
-Soy estudiante de posgrado de Holberton School, donde realicé varios proyectos vitales en backend, frontend y DevOps.
+¡Hola! 👋 Bienvenido a FatBlog, un espacio personal donde documento mis experiencias de aprendizaje y comparto cosas que despiertan mi interés. Este blog es un reflejo de mi crecimiento a medida que navego por el apasionante mundo de la programación.
 
-Soy una persona creativa a la que le gusta aportar nuevas ideas, trabajar en equipo, tener un ambiente de trabajo limpio y aprender cosas nuevas todos los días.
+Únete a mí mientras descubro nuevos conceptos, exploro temas fascinantes y comparto mis pensamientos en el camino. 🚀 Es un espacio informal y relajado donde disfruto compartir mi progreso y descubrimientos con otros entusiastas. ¡Emprendamos este viaje juntos! 😊
 
+Así que dale, ponte cómodo y empecemos.
 
+### 🍿 Actualizado Recientemente
 
-**Intereses:**
+[**Redes Sociales**](sobre-mi/redes-sociales.md) - Actualizado el 2 de Junio del 2023
 
-* Ciberseguridad y Pentesting
-* Servicios en la nube
-* DevOps
-* Docker y Kubernetes
+### 🍿 Cancion de la semana
 
-**Datos divertidos sobre mí:**
-
-* Disfruto haciendo scripts innecesarios
-* Me encanta personalizar todo ([prueba](https://twitter.com/aleejo\_rc/status/1521295322382753796))
-* Me gusta dibujar cuando me inspiro
-* FatChicken277 apareció mientras creaba una cuenta para jugar GTA V Online
-
-
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09?si=ad3ba3fde1ff4e4a" %}
