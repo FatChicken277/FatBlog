@@ -26,7 +26,7 @@ Soy una persona creativa a la que le gusta aportar nuevas ideas, trabajar en equ
 **Datos divertidos sobre mí:**
 
 * Disfruto haciendo scripts innecesarios
-* Me encanta personalizar todo (prueba)
+* Me encanta personalizar todo ([prueba](https://twitter.com/aleejo\_rc/status/1521295322382753796))
 * Me gusta dibujar cuando me inspiro
 * FatChicken277 apareció mientras creaba una cuenta para jugar GTA V Online
 
