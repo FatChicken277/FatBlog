@@ -1,3 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
+## 🐣 Sobre mi
+
+* [Sobre mí](README.md)
+* [Redes Sociales](sobre-mi/redes-sociales.md)
+
+## 💙 Golang
+
+* [WIP 🚧](golang/wip.md)
