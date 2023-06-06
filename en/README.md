@@ -22,4 +22,4 @@ So, come on in, make yourself comfortable, and let's start
 
 ### 🍿 Song of the week
 
-{% embed url="https://open.spotify.com/track/3kxXMYZKZka5g4SyqNsk09?si=8eaf22f789af41d8" %}
+{% embed url="https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS?si=a0f199a2ed474d46" %}
