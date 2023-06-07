@@ -1,5 +1,7 @@
 ---
 description: WIP 🚧
+cover: ../../.gitbook/assets/Go post template (3).png
+coverY: 0
 ---
 
 # Functions

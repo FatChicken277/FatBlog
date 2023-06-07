@@ -1,5 +1,7 @@
 ---
 description: WIP 🚧
+cover: ../../.gitbook/assets/Intermediate Template 2l.png
+coverY: 0
 ---
 
 # Pointers and Memory management

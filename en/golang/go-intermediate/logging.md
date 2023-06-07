@@ -1,5 +1,7 @@
 ---
 description: WIP 🚧
+cover: ../../.gitbook/assets/Intermediate Template 1l.png
+coverY: 0
 ---
 
 # Logging

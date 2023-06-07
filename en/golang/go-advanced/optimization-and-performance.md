@@ -1,5 +1,7 @@
 ---
 description: WIP 🚧
+cover: ../../.gitbook/assets/Advanced Template 2l.png
+coverY: 0
 ---
 
 # Optimization and Performance

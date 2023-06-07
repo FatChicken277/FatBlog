@@ -1,5 +1,7 @@
 ---
 description: WIP 🚧
+cover: ../../.gitbook/assets/Go post template.png
+coverY: 0
 ---
 
 # Introduction to Go
