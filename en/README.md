@@ -18,6 +18,8 @@ So, come on in, make yourself comfortable, and let's start
 
 ### 🍿 Recently Updated
 
+[**Introduction to Go**](golang/go-fundamentals/introduction-to-go.md) - _Updated on June 7th, 2023_
+
 [**Books**](broken-reference) _- Updated on June 2nd, 2023_
 
 ### 🍿 Song of the week
