@@ -2,6 +2,10 @@
 
 * [Welcome](README.md)
 
+## 💌 Support
+
+* [Donate](support/donate.md)
+
 ## 🐣 About me
 
 * [About me](<README (1).md>)
