@@ -1,6 +1,6 @@
 ---
 description: WIP 🚧
-cover: ../../.gitbook/assets/Go post template (4).png
+cover: ../../../.gitbook/assets/Go post template (4).png
 coverY: 0
 ---
 

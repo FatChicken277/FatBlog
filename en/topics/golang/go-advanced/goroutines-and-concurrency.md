@@ -1,6 +1,6 @@
 ---
 description: WIP 🚧
-cover: ../../.gitbook/assets/Advanced Template 2l (1).png
+cover: ../../../.gitbook/assets/Advanced Template 2l (1).png
 coverY: 0
 ---
 

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Go post template.png
+cover: ../../../.gitbook/assets/Go post template.png
 coverY: 0
 ---
 

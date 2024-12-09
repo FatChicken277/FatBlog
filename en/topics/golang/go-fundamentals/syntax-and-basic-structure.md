@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Agregar un título (8).png
+cover: ../../../.gitbook/assets/Agregar un título (8).png
 coverY: 0
 ---
 

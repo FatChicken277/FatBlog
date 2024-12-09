@@ -1,7 +1,7 @@
 # Books
 
 {% hint style="info" %}
-<mark style="color:blue;">Use the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ISBN**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">code instead of the book name to download it</mark>
+<mark style="color:blue;">Use the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**ISBN**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">code instead the book name to download it</mark>
 {% endhint %}
 
 <details>

@@ -2,7 +2,7 @@
 description: Welcome to FatChicken's personal blog ♥
 ---
 
-# Welcome
+# 👋 Welcome
 
 ### 🍿 **Quote of the week**
 
@@ -16,12 +16,7 @@ Join me as I uncover new concepts, explore fascinating topics, and share my thou
 
 So, come on in, make yourself comfortable, and let's start
 
-### 🍿 Recently Updated
+### 🍿 Topics
 
-[**Syntax and Basic Structure**](golang/go-fundamentals/syntax-and-basic-structure.md) - _Updated on June 12th, 2023_
+* [Golang](broken-reference)
 
-[**Introduction to Go**](golang/go-fundamentals/introduction-to-go.md) - _Updated on June 7th, 2023_
-
-### 🍿 Song of the week
-
-{% embed url="https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS?si=a0f199a2ed474d46" %}
